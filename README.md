@@ -6,6 +6,11 @@ I decided to use [SQLite](https://www.sqlite.org/) database to simplify sharing 
 
 ### Running Application
 To run this API just go to root directory and run ```go run main.go``` and go to http://localhost:8080
+If application requires some modules (which should be already installed), try running these commands before running application:
+```bash
+    go get "github.com/gin-gonic/gin"
+    go get "github.com/gin-gonic/gin"
+```
 
 ### Packages And Directory Files
 - [main.go](https://github.com/MaxIvanyshen/Spying-Cats-API/blob/master/main.go) - main file of the application
