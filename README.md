@@ -10,6 +10,7 @@ If application requires some modules (which should be already installed), try ru
 ```bash
     go get "github.com/gin-gonic/gin"
     go get "github.com/gin-gonic/gin"
+    go get github.com/go-resty/resty/v2
 ```
 
 ### Packages And Directory Files
