@@ -5,7 +5,7 @@ Application is written using Go programming language with use of [Gin](https://g
 I decided to use [SQLite](https://www.sqlite.org/) database to simplify sharing this application's code. Used [GORM](https://gorm.io/index.html) to perform transactions between go application and database
 
 ### Running Application
-To run this API just go to root directory and run ```go run main.go```
+To run this API just go to root directory and run ```go run main.go``` and go to http://localhost:8080
 
 ### Packages And Directory Files
 - [main.go](https://github.com/MaxIvanyshen/Spying-Cats-API/blob/master/main.go) - main file of the application
