@@ -15,6 +15,7 @@ To run this API just go to root directory and run ```go run main.go```
 - [logger](https://github.com/MaxIvanyshen/Spying-Cats-API/blob/master/logger) - package with logger initalization 
 - [validation](https://github.com/MaxIvanyshen/Spying-Cats-API/blob/master/validation) - package with functions responsible for handling validation with [TheCatAPI](https://api.thecatapi.com/v1/breeds)
 - [cats.db](https://github.com/MaxIvanyshen/Spying-Cats-API/blob/master/cats.db) - file with SQLite database
+- [spyingCats.postman_collection.json](https://github.com/MaxIvanyshen/Spying-Cats-API/blob/master/spyingCats.postman_collection.json) - postman requests collection
 
 
 ### Endpoints
